@@ -47,7 +47,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
-I'm **Eduardo Cebola** and I’m actively seeking job opportunities. <br>
+I’m **Eduardo Cebola**, a data enthusiast with a background in tech and music, currently seeking opportunities as a Data Analyst, Junior Analyst, or Intern. I’m excited about working with data to drive insights and improve decision-making. <br>
+<br>
 Let's stay in touch! Feel free to connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cebola)
